@@ -31,6 +31,10 @@ o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
 
+<img width="1310" height="686" alt="Screenshot 2025-10-21 234840" src="https://github.com/user-attachments/assets/a2249c0d-a2d0-4a4b-bcf5-0aa3a3c5454d" />
+
+<img width="1349" height="612" alt="Screenshot 2025-10-21 234852" src="https://github.com/user-attachments/assets/0b89141a-66ca-49ec-8e04-994b5c0870fe" />
+
 
 # Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
